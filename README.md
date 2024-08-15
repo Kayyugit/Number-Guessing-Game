@@ -1,5 +1,5 @@
-# Number-Guessing-Game-Explainer-Notebook
- Explainer Notebook for a number guessing game
+# Number-Guessing-Game-with-Explainer-Notebook
+ Code and Explainer Notebook for a number guessing game
 
 This is a number guessing game. The user has 10 chances to guess the number between 1 and 50.
 
